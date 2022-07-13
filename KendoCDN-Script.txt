@@ -1,0 +1,8 @@
+<script>
+    KendoLicensing.setScriptKey(
+        '141j044b041h541j4i1d542e581i592d102f082k082e0a2j0d2k092g111i' + 
+        '5h1i0b1k3c253b5f155g325e4654444k4957355b345d472g0c2k0720175g' + 
+        '3a223a613d1j141b105d405f46223a60411d3b5h2100341b5j3k4f2a0c56' + 
+        '074d285j0655005h3c1d4f4a5j1c'
+    );
+</script>
